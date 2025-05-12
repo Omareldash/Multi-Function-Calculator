@@ -6,7 +6,7 @@ A versatile and interactive calculator built with Python using a Jupyter Noteboo
 
 ## 🚀 Run this notebook on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Omareldash/Multi-Function-Calculator/blob/main/Multi_Function_Calculator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Omareldash/Multi-Function-Calculator/blob/main/Foundational_Math_1_(Learn).ipynb)
 
 ---
 
