@@ -22,8 +22,12 @@ A versatile and interactive calculator built with Python using a Jupyter Noteboo
 
 **Omar Eldash**  
 🎓 Biomedical Engineering Student  
-🤖 AI & Data Science Enthusiast  
-🔗 GitHub: [@Omareldash](https://github.com/Omareldash)
+🤖 AI & Data Science Enthusiast
+
+🔗 [Linkedin](https://www.linkedin.com/in/omareldash7512)  
+🔗 [Github](https://github.com/Omareldash)  
+🔗 [Kaggle](https://www.kaggle.com/omareldash75)
+
 
 ---
 ## 📦 Requirements (for local use)
